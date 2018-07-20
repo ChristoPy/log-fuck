@@ -1,6 +1,6 @@
 {
   "name": "log-fuck",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Print \"fuck\" on console when things broke",
   "main": "index.js",
   "scripts": {

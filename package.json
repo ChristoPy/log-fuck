@@ -1,0 +1,18 @@
+{
+  "name": "log-fuck",
+  "version": "1.0.0",
+  "description": "Print \"fuck\" on console when things broke",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console",
+    "fuck",
+    "angry",
+    "debug",
+    "log"
+  ],
+  "author": "Christopher Ribeiro <christo_campiglia@hotmail.com>",
+  "license": "MIT"
+}

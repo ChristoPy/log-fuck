@@ -11,6 +11,12 @@ Print "fuck" on console when things broke
 ```javascript
 const Fuck = require ("log-fuck");
 
-// Now print "fuck"
+// Log "fuck"
 Fuck ();
+
+// Log "fuck" too
+console.fuck ();
 ```
+
+# Version
+1.0.2

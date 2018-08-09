@@ -1,3 +1,1 @@
-console.fuck = () => console.log ("fuck");
-
-module.exports = console.fuck;
+module.exports = console.fuck = () => console.log ("fuck");
